@@ -54,7 +54,7 @@ I'm an enthusiast in Artificial Intelligence, dedicated to solving complex probl
 
 ## 📈 GitHub Stats
 
-![Suriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![theSuriya GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
 
 ---
 
