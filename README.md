@@ -21,9 +21,9 @@ I'm an enthusiast in Artificial Intelligence, dedicated to solving complex probl
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/your-leetcode-username)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD000?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/your-huggingface-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suriya-s-83b25524a/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://www.linkedin.com/in/suriya-s-83b25524a/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD000?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/suriya7)
 
 ## 💻 Tech Stack
 
